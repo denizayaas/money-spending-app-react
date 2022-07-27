@@ -1,0 +1,80 @@
+[
+  
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+  },
+ 
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 120000,
+    "image": "https://i.ibb.co/zPq2rSn/araba.png"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 800,
+    "image": "https://i.ibb.co/QjPzfg6/ayakkab.webp"
+  },
+  
+  {
+    "id": 6,
+    "title": "AirPods",
+    "price": 500,
+    "image": "https://i.ibb.co/4Wkp9dp/airpods.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Tekne",
+    "price": 80000000,
+    "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+  },
+  
+  {
+    "id": 8,
+    "title": "iPad Pro",
+    "price": 17000,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mouse",
+    "price": 400,
+    "image": "https://i.ibb.co/fQvhx5H/mouse.jpg"
+  },
+  
+  {
+    "id": 10,
+    "title": "İphone",
+    "price": 12000,
+    "image": "https://i.ibb.co/SVNdD7b/iphone.png"
+  },
+  {
+    "id": 9,
+    "title": "Çanta",
+    "price": 1500,
+    "image": "https://i.ibb.co/bgmJnRC/anta.jpg"
+  },
+  
+  {
+    "id": 12,
+    "title": "Ekmek",
+    "price": 0.1,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Özel Jet",
+    "price": 2000000000,
+    "image": "https://i.ibb.co/QPLPjYr/jet.jpg"
+  }
+]
